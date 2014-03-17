@@ -1,5 +1,5 @@
 //
-//  ADGViewController.h
+//  ADGTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Adam Gould on 17/03/2014.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ADGViewController : UIViewController
+@interface ADGTableViewController : UITableViewController
 
 @end
